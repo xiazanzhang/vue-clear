@@ -39,5 +39,5 @@ module.exports = {
             "message": "是否安装 vuex?"
         }
     },
-    "completeMessage": "安装完成开始使用:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm install\n  npm run dev\n\n 文档可以在这里找到 https://github.com/xiazanzhang/vue-clear"
+    "completeMessage": "安装完成,执行以下命令启动项目:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm install\n  npm run dev\n\n 文档地址: https://github.com/xiazanzhang/vue-clear"
 };
