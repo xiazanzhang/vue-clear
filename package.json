@@ -1,0 +1,23 @@
+{
+    "name": "vue-clear-template",
+    "version": "1.0.0",
+    "description": "Template for vue2 + iView",
+    "main": "meta.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/xiazanzhang/vue-clear.git"
+    },
+    "keywords": [
+        "vue",
+        "webpack",
+        "template",
+        "clear",
+        "vue-clear"
+    ],
+    "author": "xiazanzhang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xiazanzhang/vue-clear/issues"
+    },
+    "homepage": "https://github.com/xiazanzhang/vue-clear#readme"
+}
